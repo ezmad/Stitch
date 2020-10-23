@@ -3,6 +3,8 @@
  The author and anyone affiliated with will not be liable for any losses and/or damages in connection with use of ANY files provided with Stitch.
  By using Stitch or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again Stitch and ALL files included are for EDUCATION and/or RESEARCH purposes ONLY.
  Stitch is ONLY intended to be used on your own pentesting labs, or with explicit consent from the owner of the property being tested.** 
+ Note from ezmad * this is big e rat *
+
 
 
 # About Stitch
